@@ -16,6 +16,7 @@ The Mental Health Chatbot is an open-source project aimed at providing a support
 
 - Python 3.x
 - Dependencies listed in `requirements.txt`
+- Openapi API key
 
 ### Installation
 

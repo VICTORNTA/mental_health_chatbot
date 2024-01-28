@@ -6,8 +6,7 @@ from helper_function.helper import predict_tweet
 
 _ = load_dotenv(find_dotenv())  # read local .env file
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
-
+openai.api_key = os.getenv("OPENAI_API_KEY") #replace with your openapi key like this " openai.api_key = '####' "
 
 recent_post = []  # list to store the users inputted tweet/text
 # this is to set the context of the chatgpt language model

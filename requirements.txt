@@ -1,0 +1,10 @@
+openai==0.28
+gradio==3.50
+tensorflow==2.14
+python-dotenv==1.0.0 
+numpy==1.24.3
+nltk==3.8.1
+regex==2022.7.9
+pylint==2.12.2
+pytest==7.0.1
+black==22.3.0
